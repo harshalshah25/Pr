@@ -14,7 +14,7 @@ public class FirstAndLastOccurenceInString {
     static int[] occur(int[] arr,String p,int s,int e,char t){
         if(s<=e){
          
-           return new int[s,e];
+           return new int[e];
         }
         
         char start = p.charAt(s);

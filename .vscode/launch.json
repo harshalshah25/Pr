@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "java_d2c74f1e"
+        },
+        {
+            "type": "java",
             "name": "Launch FirstAndLastOccurenceInString",
             "request": "launch",
             "mainClass": "FirstAndLastOccurenceInString",
