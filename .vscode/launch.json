@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LLprint",
+            "request": "launch",
+            "mainClass": "LLprint",
+            "projectName": "java_d2c74f1e"
+        },
+        {
+            "type": "java",
             "name": "Launch Palindrome",
             "request": "launch",
             "mainClass": "Palindrome",
